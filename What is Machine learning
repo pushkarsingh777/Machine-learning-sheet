@@ -1,0 +1,27 @@
+Machine Learning (ML) is a branch of artificial intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed to perform specific tasks. In other words, ML algorithms analyze patterns in data and use those patterns to make informed decisions or predictions.
+
+Types of Machine Learning:
+
+
+Supervised Learning:
+The algorithm is trained on a labeled dataset (where the input data and corresponding correct output are provided).
+Example: Predicting house prices based on features like size, location, etc.
+
+Unsupervised Learning:
+The algorithm is given data without labels and must find patterns or structure in the data.
+Example: Grouping customers based on purchasing behavior (clustering).
+
+Reinforcement Learning:
+The algorithm learns by interacting with its environment and receiving feedback (rewards or punishments).
+Example: Training a robot to walk or a game-playing AI like AlphaGo.
+
+Semi-supervised Learning:
+Combines both labeled and unlabeled data, often to improve learning performance when there is a shortage of labeled data.
+
+Self-supervised Learning:
+The system generates its own labels from the data, typically used in unsupervised tasks with limited labeled data.
+
+Example of ML Application:
+Image Recognition: Identifying objects in photos, like detecting cars or people in an image.
+Speech Recognition: Converting spoken words into text (e.g., Siri or Google Assistant).
+Natural Language Processing (NLP): Analyzing and understanding text data, like sentiment analysis, translation, or chatbots.
